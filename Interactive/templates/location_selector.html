@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Business Sentiment</title>
+    <!--<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>-->
+    <style>
+        /* Add some spacing between the input elements */
+        .input-group {
+            margin-bottom: 20px; /* Adjust as needed */
+        }
+    </style>
+</head>
+
+<body>
+
+    <form id="locationForm" action="/tbd" method="post">
+        <h2>{{prompt}}:</h2>
+    
+        <div class="input-group">
+            Location Number: <input type="text" id="select" name="select">
+        </div>
+       
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+
+
+</html>
+
