@@ -19,7 +19,7 @@ The scope of our project is to use a machine learning model to assess the langua
 The assisngment is broken down into the following:
 
 1. Obtain Data to train model
-    *Initial trail emotion datset
+    *Initial trail emotion dataset
     * https://www.kaggle.com/datasets/nelgiriyewithana/emotions 
     * Twitter emtion dataset
     * https://www.kaggle.com/code/mayank404/twitter-sentimental-analysis
