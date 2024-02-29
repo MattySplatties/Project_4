@@ -21,7 +21,7 @@ The assisngment is broken down into the following:
 1. Obtain Data to train model
     *Initial trail emotion dataset
     * https://www.kaggle.com/datasets/nelgiriyewithana/emotions 
-    * Twitter emtion dataset
+    * Twitter emotion dataset
     * https://www.kaggle.com/code/mayank404/twitter-sentimental-analysis
     * Yelp Review Dataset
     * 
