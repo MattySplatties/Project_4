@@ -51,3 +51,48 @@ The assignment is broken down into the following:
 
 # Ethics
 Within this assignment, the only ethical dilemmas that were faced were pertaing to using the API's from google and yelp to obtain reviews. We were intially hoping for a rather large set of data to evaluate the model all at once, however both yelp and google limit the number of reviews one can access. We thought of trying to obtain more reviews through web scraping, however both websites outlaw against scraping reviews for any use. 
+
+#Refrences:
+1. https://towardsdatascience.com/basics-of-countvectorizer-e26677900f9c
+
+2. https://www.geeksforgeeks.org/xgboost-for-regression/
+
+3. https://scikit-learn.org/stable/modules/generat.ed/sklearn.feature_extraction.text.CountVectorizer.html
+
+4. https://docs.getml.com/latest/api/getml.predictors.XGBoostClassifier.html
+
+5. https://stackoverflow.com/questions/22851316/what-is-the-inverse-of-regularization-strength-in-logistic-regression-how-shoul
+
+6. https://www.statology.org/logistic-regression/
+
+7. https://www.geeksforgeeks.org/introduction-to-stemming/
+
+8. https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+
+9. https://stackoverflow.com/questions/38640109/logistic-regression-python-solvers-definitions
+
+10. https://www.geeksforgeeks.org/naive-bayes-classifiers/
+
+11. https://www.britannica.com/science/multinomial-distribution
+
+12. https://towardsdatascience.com/everything-about-svm-classification-above-and-beyond-cc665bfd993e
+
+Data:
+
+1. https://www.kaggle.com/datasets/kazanova/sentiment140
+
+2. https://www.kaggle.com/datasets/yacharki/yelp-reviews-for-sa-finegrained-5-classes-csv
+
+3. https://www.kaggle.com/datasets/nelgiriyewithana/emotions
+
+
+Tutorials:
+
+1. https://www.youtube.com/watch?v=4YGkfAd2iXM (Twitter Sentiment Analysis By GeeksforGeeks)
+
+Plotting:
+
+#https://matplotlib.org/stable/tutorials/pyplot.html#sphx-glr-tutorials-pyplot-py
+
+https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-emotions-dataset
+
