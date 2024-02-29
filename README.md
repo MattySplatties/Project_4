@@ -16,7 +16,7 @@ The scope of our project is to use a machine learning model to assess the langua
 * SKlearn
 
 # Intructions
-The assisngment is broken down into the following:
+The assignment is broken down into the following:
 
 1. Obtain Data to train model
     *Initial trail emotion dataset
