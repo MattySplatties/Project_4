@@ -24,7 +24,7 @@ The assisngment is broken down into the following:
     * Twitter emotion dataset
     * https://www.kaggle.com/code/mayank404/twitter-sentimental-analysis
     * Yelp Review Dataset
-    * 
+    * https://www.kaggle.com/datasets/yacharki/yelp-reviews-for-sa-finegrained-5-classes-csv
 
 2. Initializes, trains and evaluates model
     * Training of MultiModelVector and LRTrained2 model
