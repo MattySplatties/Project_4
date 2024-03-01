@@ -52,7 +52,7 @@ The assignment is broken down into the following:
 # Ethics
 Within this assignment, the only ethical dilemmas that were faced were pertaing to using the API's from google and yelp to obtain reviews. We were intially hoping for a rather large set of data to evaluate the model all at once, however both yelp and google limit the number of reviews one can access. We thought of trying to obtain more reviews through web scraping, however both websites outlaw against scraping reviews for any use. 
 
-#Models
+# Models
   
 
 Initial Model  
@@ -264,7 +264,7 @@ The logistic regression seemed to have the best accuracy of any of the models.
   
 
 
-#Refrences:
+# Refrences:
 1. https://towardsdatascience.com/basics-of-countvectorizer-e26677900f9c
 
 2. https://www.geeksforgeeks.org/xgboost-for-regression/
